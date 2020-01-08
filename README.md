@@ -1,2 +1,2 @@
-# wyux.github.io
+# 吴煜孝的个人博客
 个人blog
