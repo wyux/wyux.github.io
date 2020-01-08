@@ -28,3 +28,6 @@ Public Overrides Function Read(ByRef CoreObj As MapFileCoreLib.MIGraphy, ByVal f
         Return True
     End Function
 ```
+
+- [ ]
+- [x]
